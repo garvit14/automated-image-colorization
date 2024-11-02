@@ -19,7 +19,7 @@ spatially more consistent and are fully automated at the same time. Therefore, i
 
 Check [_Scripts_](./Scripts/) folder for implementation.
 
-[Published Springer Article](./research_paper_springer.pdf)
+[Published Springer Research Paper](./research_paper_springer.pdf)
 
 [**Results**](./output.pdf)
 
