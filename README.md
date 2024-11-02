@@ -17,9 +17,10 @@ spatially more consistent and are fully automated at the same time. Therefore, i
 2) A set of patches(3x3) with their respective a and b channels as extracted from the colored image generated in Step-1 are then given as input to Model-2 along with the black and white image. The model then generates the image which is more spatially consistent then the one generated in Step-1.
    Model-2 produces a default colorized output even if no user input is given i.e. no color patches are given as input. We used the output of Step-1 to choose color patches because the default output of Model-2 although spatially consistent, tends to be desaturated. Thus, the color patches were taken to ensure that the colorization results are bright.
 
+Check [_Scripts_](./Scripts/) folder for implementation.
+
 Published Springer Article: https://link.springer.com/article/10.1007/s11760-021-02047-5
 
 [**Results**](./output.pdf)
-
 
 <img width="766" alt="image" src="https://github.com/user-attachments/assets/6217102e-22ab-4724-b7da-9cbc76965339">
